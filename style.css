@@ -1,0 +1,158 @@
+#search {
+  width: 90px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  font-size: 10px;
+  background-color: white;
+  background-image: url('search.png');
+  background-size: 20px 20px;
+  background-position: 8px 8px; 
+  background-repeat: no-repeat;
+  padding: 8px 15px 8px 30px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+  
+}
+
+#search:focus {
+  width: 100%;
+}
+
+.social {
+	color: black;
+}
+.social:hover {
+	color: orange;
+}
+
+.yummy-logo {
+	font-family:'Shadows Into Light', cursive; 
+	text-align: center;
+	text-decoration: none;
+	color: black;
+	cursor: pointer;
+}
+
+.nav-link {
+	color: black;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+	margin-right: 25px;
+	
+}
+.nav-link:hover {
+	color: orange;
+}
+
+#dropdown-item {
+	color: black;
+	font-size: 13px;
+	font-family: 'Poppins', sans-serif;
+}
+#dropdown-item:hover {
+	color: orange;
+}
+
+#single_catagory {
+	border-radius: 25px;
+}
+
+#button {
+	border-radius: 23px;
+	padding: 10px 50px 10px 50px;
+	margin: -145px 12px 400px 85px;
+	font-family: 'Quicksand', sans-serif;
+	font-weight: bold;
+	font-size: 21px;
+	
+}
+
+.post-thumb {
+	border-radius: 30px;
+	margin-top: -220px;
+}
+
+#post-headline {
+	color: black;
+	cursor: pointer;
+	font-family: 'Muli', sans-serif; 
+	font-weight: bold;
+	word-spacing: 6px;
+}
+#post-headline:hover {
+	color: orange;
+}
+
+#link {
+	text-decoration: none;
+	color: black;
+}
+#link:hover {
+	color: orange;
+}
+
+#author {
+	color: grey;
+	font-size: 15px;
+	font-family: 'Questrial', sans-serif;
+	font-weight: bold;
+}
+#author:hover {
+	color: black;
+	font-weight: bold;
+}
+
+.read-more {
+	border: 1px solid grey;
+	border-radius: 20px;
+	padding: 7px 10px 7px 10px;
+	font-size: 13px;
+	color: grey;
+	font-family: 'Poppins', sans-serif;
+}
+.read-more:hover {
+	border-color: black;
+}
+
+#post-thumb {
+	border-radius: 25px;
+}
+
+.post-headline {
+	color: black;
+	font-size: 23px; 
+	line-height: 28px;
+	font-family: 'Muli', sans-serif;
+	font-weight: bold;
+}
+.post-headline:hover {
+	color: orange;
+}
+#post-headline {
+	text-decoration: none;
+}
+
+.margin1 {
+	margin-top: 38px;
+}
+.margin2 {
+	margin-top: 260px;
+}
+.margin3 {
+	margin-top: 240px;
+}
+.margin4 {
+	margin-top: 240px;
+}
+
+.margin5 {
+	margin-top: 40px;
+}
+.margin6 {
+	margin-top: 40px;
+	margin-left: -35px;
+}
+.margin7 {
+	margin-top: 18px;
+	margin-left: -30px;
+}
